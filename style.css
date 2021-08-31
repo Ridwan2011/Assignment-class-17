@@ -9,6 +9,10 @@
     left: 143px;
 }
 
+.header ul li a:hover{
+    border-bottom: 2px solid #fff;
+}
+
 .fas{
     margin-left: 9px;
 }
